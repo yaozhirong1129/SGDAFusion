@@ -15,7 +15,7 @@
 
 ---
 
-## Create Environment
+## 1. Create Environment
 - Create Conda Environment
 
 ```bash
@@ -29,7 +29,17 @@ conda activate SGDAFusion
 pip install -r requirements.yml
 ```
 
-### 2. 安装依赖包
+## 2. Prepare Your Dataset
+---
+
+<div align="center">
+  <img src="figs/dataset.jpg" width="95%" alt="dataset">
+  <p align="center">
+    <em>Fig 1: DA-IVIF</em>
+  </p>
+</div>
+
+---
 
 ```bash
 git clone [https://github.com/YourUsername/SGDAFusion.git](https://github.com/YourUsername/SGDAFusion.git)
