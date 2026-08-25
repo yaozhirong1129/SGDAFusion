@@ -31,7 +31,6 @@ pip install -r requirements.yml
 
 ## 2. Prepare Your Dataset
 ---
-
 <div align="center">
   <img src="figs/dataset.jpg" width="95%" alt="dataset">
   <p align="center">
@@ -41,7 +40,26 @@ pip install -r requirements.yml
 
 ---
 
+You can also refer to this format to prepare your data. You should list your dataset as followed rule:
 ```bash
-git clone [https://github.com/YourUsername/SGDAFusion.git](https://github.com/YourUsername/SGDAFusion.git)
-cd SGDAFusion
-pip install -r requirements.txt
+    dataset/
+        your_dataset/
+              train/
+                  vis/
+                  ir/
+              eval/
+                  vis/
+                  ir/
+              train.csv
+              test.csv
+
+```
+## 3. Pretrained Weights
+
+
+## 4. Training your model
+```bash
+python train.py --gpu 1 --config training.yml
+```
+
+## 4. Test
