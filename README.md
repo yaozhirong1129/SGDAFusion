@@ -64,5 +64,6 @@ python train.py --gpu 1 --config training.yml
 
 ## 4. Test
 
-## 5. DA—IVIF
-[Dataset] (Baidu Netdisk, pwd: DA26)](https://pan.baidu.com/s/15m9PJEejmfeukk-oYnx42w?pwd=DA26)
+## 5. DA-IVIF
+- [Google Drive](你的谷歌云盘链接)
+- [Baidu Yun](https://pan.baidu.com/s/15m9PJEejmfeukk-oYnx42w?pwd=DA26) 提取码: DA26
