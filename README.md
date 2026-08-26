@@ -60,6 +60,17 @@ You can also refer to this format to prepare your data. You should list your dat
 python train.py --gpu 1 --config training.yml
 ```
 
+To train the model with DINOv2, please download the pretrained weight `dinov2_vitb14_reg4_pretrain.pth` (or CLIP weights) and organize the directory as follows:
+
+```text
+SGDAFusion/
+├── dataset/
+├── dinov2/
+│   └── dinov2_vitb14_reg4_pretrain.pth
+├── models/
+│   └── ...
+└── ...
+
 ## 4. Test
 ```bash
 python test.py
