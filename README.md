@@ -69,8 +69,9 @@ python test.py
 - [Google Drive](https://drive.google.com/file/d/1TS0T2wYs06ROuozY9ure2yQrZbUvsdiu/view?usp=sharing)
 - [Baidu Yun](https://pan.baidu.com/s/15m9PJEejmfeukk-oYnx42w?pwd=DA26) 提取码: DA26
 
-## 6.evaluate matrices
-- [evaluation](https://github.com/Topanxal/Image-fusion-evaluation-metrics-code-PyTorch-version-)
+## 6. Evaluation Metrics
+To ensure a fair and unified benchmark, we adopt the PyTorch-based evaluation toolkit to evaluate all comparison methods. We sincerely thank the author for open-sourcing this repository:
+- [PyTorch-based Evaluation Metrics](https://github.com/Topanxal/Image-fusion-evaluation-metrics-code-PyTorch-version-)
 
 
 ## 6. Citation
