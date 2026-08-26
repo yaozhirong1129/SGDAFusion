@@ -66,7 +66,7 @@ python test.py
 ```
 
 ## 5. DA-IVIF
-- [Google Drive](你的谷歌云盘链接)
+- [Google Drive]((https://drive.google.com/file/d/1TS0T2wYs06ROuozY9ure2yQrZbUvsdiu/view?usp=sharing))
 - [Baidu Yun](https://pan.baidu.com/s/15m9PJEejmfeukk-oYnx42w?pwd=DA26) 提取码: DA26
 
 
