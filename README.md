@@ -54,16 +54,21 @@ You can also refer to this format to prepare your data. You should list your dat
               test.csv
 
 ```
-## 3. Pretrained Weights
 
-
-## 4. Training your model
+## 3. Training your model
 ```bash
 python train.py --gpu 1 --config training.yml
 ```
 
 ## 4. Test
+```bash
+python test.py
+```
 
 ## 5. DA-IVIF
 - [Google Drive](你的谷歌云盘链接)
 - [Baidu Yun](https://pan.baidu.com/s/15m9PJEejmfeukk-oYnx42w?pwd=DA26) 提取码: DA26
+
+
+## 6. Citation
+If you find our work or dataset useful for your research, please cite our paper.
