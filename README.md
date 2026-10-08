@@ -2,7 +2,7 @@
 
 > **Information Fusion 2026**  
 > Guanghui Yue, Zhirong Yao, Cheng Zhao, Weiqing Yan, Bin Jiang, Tianwei Zhou*  
-> [(Paper)]
+> [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253526006871)
 
 ---
 
