@@ -65,7 +65,7 @@ dataset/
 
 The pretrained model checkpoints are provided below.
 
-- [Google Drive]()
+- [Google Drive](https://drive.google.com/file/d/1wQf20Qd5CXs62KLvPWkat7e9gr4kcsI4/view?usp=drive_link)
 - [Baidu Yun](https://pan.baidu.com/s/19afZlgi0n4hTfOD2GcFtAw?pwd=SGDA) (Extraction code: `SGDA`)
 
 Download `checkpoints.zip` and extract the files into the project directory. Please ensure that the checkpoint paths match the corresponding paths specified in the configuration files and model-loading code.
